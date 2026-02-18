@@ -1,6 +1,6 @@
 # 📚 Sistema de Biblioteca em C
 
-Projeto acadêmico desenvolvido em C com foco em **Estruturas de Dados**, implementando múltiplas técnicas clássicas sem uso de bibliotecas externas.
+Projeto acadêmico desenvolvido em C para a disciplina de Estruturas de Dados, implementando múltiplas técnicas.
 
 ---
 
@@ -217,20 +217,14 @@ gcc -Wall -Wextra -O2 main.c livros.c usuarios.c busca_usuarios.c emprestimos.c 
 
 ---
 
-# 🎓 Objetivo Acadêmico
-
-Este projeto cobre praticamente todo o conteúdo típico de:
-
-* Estrutura de Dados
-
-Demonstrando aplicação prática de múltiplas estruturas no mesmo sistema integrado.
-
----
-
 # 👨‍💻 Autor
 
-NOMES.
-
+NOMES: 
+JOAO VITOR LIMA SANTOS
+LUÍS GUSTAVO DOS SANTOS 
+ESTHER KELRE NOGUEIRA PROTÁZIO 
+ALLAN DAVID SILVA DOS SANTOS
+SANTHIAGO SILVA SANTOS
 ---
 
 # 🚀 Status
